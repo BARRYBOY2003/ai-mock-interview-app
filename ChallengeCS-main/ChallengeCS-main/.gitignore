@@ -1,0 +1,21 @@
+# Virtual environments
+venv39/
+venv*/
+env/
+ENV/
+.venv39/
+.env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
